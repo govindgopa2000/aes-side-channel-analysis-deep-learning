@@ -18,3 +18,11 @@ Experiments were conducted on:
 - ASCAD Fixed
 - ASCAD_desync50
 - ASCAD_desync100
+
+The ASCAD dataset is publicly available from ANSSI.
+
+Download it from:
+
+https://github.com/ANSSI-FR/ASCAD
+
+Update the dataset paths inside the notebooks before running the experiments.
