@@ -26,3 +26,11 @@ Download it from:
 https://github.com/ANSSI-FR/ASCAD
 
 Update the dataset paths inside the notebooks before running the experiments.
+
+If you use this work, please cite:
+
+Govind Gopakumar.
+Side-Channel Analysis of AES using Transformer and YOLO-Based Deep Learning Models.
+M.Sc. Thesis,
+Khalifa University,
+2026.
